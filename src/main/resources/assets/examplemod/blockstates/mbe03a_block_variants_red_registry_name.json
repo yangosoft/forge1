@@ -1,0 +1,8 @@
+{
+    "variants": {
+           "facing=north": { "model": "examplemod:block/mbe03a_block_variants_model_red"},
+            "facing=east": { "model": "examplemod:block/mbe03a_block_variants_model_red", "y": 90 },
+           "facing=south": { "model": "examplemod:block/mbe03a_block_variants_model_red", "y": 180 },
+            "facing=west": { "model": "examplemod:block/mbe03a_block_variants_model_red", "y": 270 }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "examplemod:item/mbe65_crossbow_air_registry_name",
+    "textures": {
+        "layer0": "examplemod:item/mbe65_crossbow_air_charged"
+    }
+}

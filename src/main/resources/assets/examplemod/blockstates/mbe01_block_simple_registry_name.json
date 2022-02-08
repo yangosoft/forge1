@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "examplemod:block/mbe01_block_simple_model" }
+    }
+}

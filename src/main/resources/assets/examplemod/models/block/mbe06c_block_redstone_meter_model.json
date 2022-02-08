@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "block/iron_block",
+        "up": "block/iron_block",
+        "north": "examplemod:block/mbe06c_block_redstone_meter",
+        "east": "examplemod:block/mbe06c_block_redstone_meter",
+        "south": "examplemod:block/mbe06c_block_redstone_meter",
+        "west": "examplemod:block/mbe06c_block_redstone_meter",
+        "particle": "examplemod:block/mbe06c_block_redstone_meter"
+    }
+}

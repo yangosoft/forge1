@@ -1,0 +1,7 @@
+{
+    "parent": "examplemod:block/mbe03a_block_variants_model_shape",
+    "textures": {
+        "sign": "examplemod:block/mbe03a_block_variants_sign_green",
+        "particle": "block/green_wool"
+    }
+}

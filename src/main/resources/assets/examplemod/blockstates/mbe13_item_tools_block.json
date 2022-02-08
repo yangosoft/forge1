@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "examplemod:block/mbe13_item_tools_block_model" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "examplemod:item/mbe65_bow_fire_registry_name",
+    "textures": {
+        "layer0": "examplemod:item/mbe65_bow_fire_pulling_2"
+    }
+}

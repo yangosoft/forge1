@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "examplemod:block/mbe01_block_simple_face0",
+        "up": "examplemod:block/mbe01_block_simple_face1",
+        "north": "examplemod:block/mbe01_block_simple_face2",
+        "east": "examplemod:block/mbe01_block_simple_face5",
+        "south": "examplemod:block/mbe01_block_simple_face3",
+        "west": "examplemod:block/mbe01_block_simple_face4",
+        "particle": "block/lapis_block"
+    }
+}
